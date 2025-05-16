@@ -28,8 +28,8 @@
 
 /* Estilização da primeira imagem */
 .imagem-destaque {
-  width: 100px; /* Aumenta o tamanho da imagem */
-  height: 200px;
+  width: 1px; /* Aumenta o tamanho da imagem */
+  height: auto;
   border-radius: 8px;
 }
 .bloco-destaque2 {
