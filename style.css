@@ -52,7 +52,7 @@
 
 /* Estilização da primeira imagem */
 .imagem-destaque2 {
-  width: 100px; /* Aumenta o tamanho da imagem */
+  width: 80px; /* Aumenta o tamanho da imagem */
   height: auto;
   border-radius: 8px;
 }
