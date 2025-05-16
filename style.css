@@ -30,7 +30,7 @@
 .imagem-destaque {
   width: 1px; /* Aumenta o tamanho da imagem */
   height: auto;
-  border-radius: 8px;
+  border-radius: 1px;
 }
 .bloco-destaque2 {
   display: flex;
