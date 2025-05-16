@@ -28,7 +28,7 @@
 
 /* Estilização da primeira imagem */
 .imagem-destaque {
-  width: 1px; /* Aumenta o tamanho da imagem */
+  width: 300px; /* Aumenta o tamanho da imagem */
   height: auto;
   border-radius: 1px;
 }
@@ -52,7 +52,7 @@
 
 /* Estilização da primeira imagem */
 .imagem-destaque2 {
-  width: 80px; /* Aumenta o tamanho da imagem */
+  width: 300px; /* Aumenta o tamanho da imagem */
   height: auto;
   border-radius: 8px;
 }
