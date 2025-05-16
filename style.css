@@ -32,3 +32,27 @@
   height: auto;
   border-radius: 8px;
 }
+.bloco-destaque2 {
+  display: flex;
+  align-items: center; /* Alinha o texto e a imagem verticalmente */
+  gap: 20px; /* Espaçamento entre o texto e a imagem */
+  margin-bottom: 40px;
+  justify-content: flex-start; /* Alinha à esquerda */
+}
+
+/* Estilização do primeiro parágrafo (Texto 1) */
+.texto-destaque2 {
+  color: #2c3e50; /* Cor forte para o texto (um tom de azul escuro) */
+  font-family: "Arial", sans-serif; /* Fonte Arial */
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 500px; /* Limita a largura do parágrafo */
+  text-align: justify; /* Justifica o texto */
+}
+
+/* Estilização da primeira imagem */
+.imagem-destaque2 {
+  width: 10px; /* Aumenta o tamanho da imagem */
+  height: auto;
+  border-radius: 8px;
+}
